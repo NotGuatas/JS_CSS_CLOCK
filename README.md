@@ -38,7 +38,6 @@ El reto ayuda a comprender:
 ---
 
 ##  Vista previa
-*(Agrega un screenshot dentro de /assets y actualiza el path si deseas)*  
 ```md
 ![Preview del proyecto](assets/preview.png)
 
